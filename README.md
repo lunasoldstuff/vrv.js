@@ -1,2 +1,8 @@
-# Welcome to vrv.js!
-**vrv.js** is an API for [**vrv.co**](https://vrv.co) made by Valiant Heart Studios (me). It will allow you to download non-premium videos directly from VRV's servers, with no hassle, in [Node.js](https://nodejs.org).
+# Welcome to VRV.js!
+VRV.js was created by [stampylongr](https://github.com) (me) and [Sorurus](https://github.com/Sorurus) with the purpose of being a simple video downloader for [VRV](https://vrv.co). Some planned features are:
+
+- Conversions of ```.m3u8``` files to ```.mp4``` videos.
+- Integration with [FFmpeg](https://www.ffmpeg.org/).
+- A more user-friendly client.
+
+That's it for now!
