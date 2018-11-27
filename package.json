@@ -1,0 +1,22 @@
+{
+  "name": "@valiantheartstudios/vrv",
+  "version": "0.0.1",
+  "description": "A Custom API for vrv.co",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stampylongr/vrv.js.git"
+  },
+  "author": "stampylongr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stampylongr/vrv.js/issues"
+  },
+  "homepage": "https://github.com/stampylongr/vrv.js#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
