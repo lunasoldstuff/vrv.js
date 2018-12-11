@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/stampylongr/vrv.js#readme",
   "dependencies": {
-    "fluent-ffmpeg": "^2.1.2"
+    "airbrake-js": "^1.6.2",
+    "cross-fetch": "^3.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "request": "^2.88.0"
   }
 }
