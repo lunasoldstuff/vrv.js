@@ -4,7 +4,9 @@
   "description": "A Custom API for vrv.co",
   "main": "start.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,8 @@
     "airbrake-js": "^1.6.2",
     "cross-fetch": "^3.0.0",
     "fluent-ffmpeg": "^2.1.2",
-    "request": "^2.88.0"
-  }
+    "request": "^2.88.0",
+    "snyk": "^1.189.0"
+  },
+  "snyk": true
 }
