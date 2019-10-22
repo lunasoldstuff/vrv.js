@@ -6,3 +6,26 @@ patch:
   SNYK-JS-LODASH-450202:
     - fluent-ffmpeg > async > lodash:
         patched: '2019-07-04T07:07:10.646Z'
+    - snyk > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-10-22T21:10:46.497Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-22T21:10:46.497Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-22T21:10:46.497Z'
