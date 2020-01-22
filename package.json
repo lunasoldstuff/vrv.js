@@ -23,7 +23,7 @@
     "cross-fetch": "^3.0.0",
     "fluent-ffmpeg": "^2.1.2",
     "request": "^2.88.0",
-    "snyk": "^1.236.1"
+    "snyk": "^1.278.2"
   },
   "snyk": true
 }
