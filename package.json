@@ -20,7 +20,7 @@
   "homepage": "https://github.com/stampylongr/vrv.js#readme",
   "dependencies": {
     "airbrake-js": "^1.6.2",
-    "cross-fetch": "^3.0.0",
+    "cross-fetch": "^3.0.6",
     "fluent-ffmpeg": "^2.1.2",
     "request": "^2.88.0",
     "snyk": "^1.236.1"
